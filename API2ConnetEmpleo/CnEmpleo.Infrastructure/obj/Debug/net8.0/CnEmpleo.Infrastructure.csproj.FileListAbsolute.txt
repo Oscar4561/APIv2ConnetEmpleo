@@ -16,3 +16,21 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\refint\CnEmpleo.Infrastructure.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\ref\CnEmpleo.Infrastructure.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.deps.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\CnEmpleo.Infrastructure.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\ConnectEmpleo.Domain.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\ConnetEmpleo.Utilities.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\ConnectEmpleo.Domain.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\bin\Debug\net8.0\ConnetEmpleo.Utilities.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.sourcelink.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.7A5D22FE.Up2Date
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\refint\CnEmpleo.Infrastructure.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\CnEmpleo.Infrastructure.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\CnEmpleo.Infrastructure\obj\Debug\net8.0\ref\CnEmpleo.Infrastructure.dll
