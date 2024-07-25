@@ -13,3 +13,18 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.genruntimeconfig.cache
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ref\ConnectEmpleo.Domain.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.deps.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.runtimeconfig.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\bin\Debug\net8.0\ConnectEmpleo.Domain.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.AssemblyInfo.cs
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.sourcelink.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\refint\ConnectEmpleo.Domain.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ConnectEmpleo.Domain.genruntimeconfig.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnectEmpleo.Domain\obj\Debug\net8.0\ref\ConnectEmpleo.Domain.dll

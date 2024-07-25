@@ -10,3 +10,15 @@ D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_con
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\refint\ConnetEmpleo.Utilities.dll
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.pdb
 D:\1Universidadg_semestre_9\Gestion_de_proyectos_software\Parcial 2\Proyecto_continuacion\APIConnetProyect\API2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ref\ConnetEmpleo.Utilities.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\bin\Debug\net8.0\ConnetEmpleo.Utilities.deps.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\bin\Debug\net8.0\ConnetEmpleo.Utilities.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\bin\Debug\net8.0\ConnetEmpleo.Utilities.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.AssemblyInfoInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.AssemblyInfo.cs
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.sourcelink.json
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\refint\ConnetEmpleo.Utilities.dll
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ConnetEmpleo.Utilities.pdb
+C:\Users\Usuario\APIv2ConnetEmpleo\API2ConnetEmpleo\ConnetEmpleo.Utilities\obj\Debug\net8.0\ref\ConnetEmpleo.Utilities.dll
